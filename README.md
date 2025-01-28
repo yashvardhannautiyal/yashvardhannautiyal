@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashvardhannautiyal
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN development
+- 👀 I’m interested in Java Full Stack Development
+- 🌱 I’m currently learning Java backend
 - 📫 How to reach me www.linkedin.com/in/yash-vardhan-nautiyal | @YashVardhan228 : Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is enjoyable when approached with a fresh mind.
